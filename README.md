@@ -32,7 +32,7 @@ While Pi-hole was originally authored to run on a Raspberry Pi, people have foll
 
 ```bash
 sudo su -
-curl -O https://raw.githubusercontent.com/rajannpatel/Pi-Hole-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-Wireguard-VPN-Configs/master/setup.sh
+curl -O https://raw.githubusercontent.com/sfdcai/Pi-Hole-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-Wireguard-VPN-Configs/refs/heads/master/setup.sh
 chmod +x setup.sh
 bash ./setup.sh 
 ```
